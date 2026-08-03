@@ -997,6 +997,8 @@ done
 $ chmod 755 forin1.sh
 
 ## OUTPUT
+<img width="534" height="204" alt="image" src="https://github.com/user-attachments/assets/7eeee83e-ab04-436d-9768-0c2f8490e292" />
+
 cat forinfile.sh 
 ```bash
 #!/bin/bash
@@ -1018,6 +1020,8 @@ Bhadrachalam
 Khammam
 
 ## OUTPUT
+<img width="427" height="183" alt="image" src="https://github.com/user-attachments/assets/f72e9394-6691-42d2-a023-b9a35c451657" />
+
 
 
 cat forctype.sh 
@@ -1032,6 +1036,8 @@ done
 $ chmod 755 forctype.sh
 $ ./forctype.sh 
 ## OUTPUT
+<img width="307" height="95" alt="image" src="https://github.com/user-attachments/assets/c144b82e-486b-4c1d-8a50-cfa6af450112" />
+
 
 cat forctype1.sh 
 ```bash
@@ -1045,6 +1051,8 @@ done
 $ chmod 755 forctype.sh
 $ ./forctype1.sh 
 ## OUTPUT
+<img width="307" height="95" alt="image" src="https://github.com/user-attachments/assets/9bb49be5-2c3e-4517-8ddc-811d311b0d91" />
+
 
 cat fornested1.sh 
 ```bash
@@ -1063,6 +1071,7 @@ $ chmod 755 fornested1.sh
  
 $ ./fornested1.sh 
  ## OUTPUT
+<img width="307" height="95" alt="image" src="https://github.com/user-attachments/assets/bd676579-a786-4f9b-8a5a-31914f3b6552" />
 
  
 cat forbreak.sh 
@@ -1080,6 +1089,9 @@ done
 echo "The for loop is completed“
 ```
 ## OUTPUT
+<img width="307" height="95" alt="image" src="https://github.com/user-attachments/assets/b93a7c32-12e4-44fe-8aa2-836e1ba5426c" />
+
+
 
 $ chmod 755 forbreak.sh
  
@@ -1105,6 +1117,8 @@ $ chmod 755 forcontinue.sh
  
 $ ./forcontinue.sh 
 ## OUTPUT
+<img width="307" height="95" alt="image" src="https://github.com/user-attachments/assets/70c4af0f-c82b-4613-a0cc-72e8bd64020b" />
+
  
 cat exread.sh 
 ```bash
@@ -1119,6 +1133,8 @@ $ chmod 755 exread.sh
  
 $ ./exread.sh 
 ## OUTPUT
+<img width="307" height="95" alt="image" src="https://github.com/user-attachments/assets/ff7b1c46-728f-475e-922e-ba9b4701e324" />
+
 
 
  cat exread1.sh
@@ -1131,7 +1147,7 @@ echo "Hello $name, welcome to my program. “
 $ chmod 755 exread1.sh 
 
 ## OUTPUT
-
+<img width="307" height="95" alt="image" src="https://github.com/user-attachments/assets/5a0569bb-c99d-4d4d-a350-2bd631605c92" />
 
 
 $ ./exread1.sh 
@@ -1152,6 +1168,8 @@ echo "Usage: badtest1 a b"
 fi
 ```
 ## OUTPUT
+<img width="645" height="137" alt="image" src="https://github.com/user-attachments/assets/b31a9336-1ccb-4284-8082-faa443a8c3b9" />
+
  ./funcex.sh 
 
  
@@ -1170,6 +1188,8 @@ $ chmod 777 argshift.sh
 
 ## OUTPUT
 $ ./argshift.sh 1 2 3
+<img width="645" height="137" alt="image" src="https://github.com/user-attachments/assets/6f2d7209-ac89-4c9c-8a2c-1a01dcb8abde" />
+
  
  cat argshift1.sh
 ```bash
@@ -1187,6 +1207,8 @@ done
 $ chmod 777 argshift.sh
 ## OUTPUT
 $ ./argshift.sh 1 2 3
+<img width="887" height="472" alt="image" src="https://github.com/user-attachments/assets/767d4ba2-ffd1-4a69-91f8-2d863f491c32" />
+
  
 cat argshift.sh
 ```bash
@@ -1200,7 +1222,8 @@ set +x
 ```
 ## OUTPUT
  ./argshift.sh 1 2 3
- 
+ <img width="887" height="472" alt="image" src="https://github.com/user-attachments/assets/2639df13-435b-41b0-91ca-bf3403521223" />
+
  
 cat > nc.awk
 ```bash
@@ -1231,7 +1254,8 @@ ubcdfghj
 ```
 awk -f nc.awk data.dat
 ## OUTPUT 
-<img width="972" height="513" alt="image" src="https://github.com/user-attachments/assets/ac6c1a2f-dcd5-4e73-a37d-9114e126c1b2" />
+<img width="725" height="472" alt="image" src="https://github.com/user-attachments/assets/39aad12c-a35e-450b-ab84-fcfea6cb355e" />
+
 
  
 cat > palindrome.sh
@@ -1260,7 +1284,7 @@ else
 fi
 ```
 ## OUTPUT 
-<img width="988" height="339" alt="image" src="https://github.com/user-attachments/assets/07d9973f-2d07-41da-bea0-d0dfd48c4a32" />
+<img width="357" height="123" alt="image" src="https://github.com/user-attachments/assets/e3ae07db-5790-4949-b186-f4f78a58ea24" />
 
 
 
